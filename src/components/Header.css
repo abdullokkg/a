@@ -1,0 +1,79 @@
+.img_makeup{
+    width: 200px
+}
+
+.footers{
+    display: flex;
+    gap: 100px;
+}
+
+.inputs{
+    width: 400px;
+}
+
+input{
+    border: none;
+    width: 220px;
+    padding: 0px 20px;
+    background-color: #777;
+    height: 50px;
+    color: #fff;
+}
+
+.footering{
+    gap: 20px;
+}
+
+input::placeholder{
+    font-size: 20px;
+    color: #fff;
+}
+
+.footer{
+    padding: 40px 60px;
+    display: flex;
+    justify-content: space-between;
+    height: 440px;
+    font-family: "Open Sans", sans-serif;
+}
+
+.div_makeup{
+    display: flex;
+    font-family: "Open Sans", sans-serif;
+    justify-content: space-between;
+    background-image: url(../assets/makeup.jpg);
+    color: #222;
+    padding: 40px 50px;
+    align-items: center;
+    cursor: pointer;
+}   
+
+
+
+.btn_makeup{
+    margin-top: 20px;
+    width: 130px;
+    border: none;
+    cursor: pointer;
+    height: 50px;
+    background-color: #222;
+    color: #fff;
+}
+
+.btn_makeup:hover{
+    background-color: #fff;
+    color: #222;
+    border: #222 1px solid;
+}
+
+.h1_makeups{
+    width: 300px;
+}
+
+.text_makeup{
+    font-size: 36px;
+}
+
+.txt_makeup{
+    font-size: 20px;
+}

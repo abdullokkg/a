@@ -1,0 +1,141 @@
+.cosmetics_cards2{
+    margin-top: 10px;
+    position: absolute;
+    width: 100%;
+    align-items: center;
+    cursor: pointer;
+    font-family: "Open Sans", sans-serif;
+    display: grid;
+    padding: 0px 40px;
+    grid-template-columns: repeat(4, 1fr);
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+
+
+.cosmetic_card{
+    width: 300px;
+    max-height: 400px;
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 120px;
+}
+.cosmetic_card2{
+    width: 300px;
+    margin-top: 50px;
+    height: 450px;
+    padding: 30px;
+}
+
+.basket{
+    display: flex;
+}
+
+.cosmetics_txt{
+    margin-top: 50px;
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+}
+
+
+
+.img_cosmetic{
+    width: 200px;
+}
+
+.cosmetics_cards5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+
+.footer1{
+    margin-top: 6800px;
+    background-color: #777;
+    color: #fff;
+}
+.footer2{
+    margin-top: 5700px;
+    background-color: #777;
+    color: #fff;
+}
+
+.footer3{
+    margin-top: 2850px;
+    background-color: #777;
+    color: #fff;
+}
+
+.footer4{
+    margin-top: 10850px;
+    background-color: #777;
+    color: #fff;
+}
+
+.footer6{
+    margin-top: 9900px;
+    background-color: #777;
+    color: #fff;
+}
+
+.footer10{
+    margin-top: 6280px;
+    background-color: #777;
+    color: #fff;
+}   
+
+.footer9{
+    margin-top: 6780px;
+    background-color: #777;
+    color: #fff;
+}
+
+.footer8{
+    margin-top: 7820px;
+    background-color: #777;
+    color: #fff;
+}
+
+.footer7{
+    margin-top: 3700px;
+    background-color: #777;
+    color: #fff;
+}
+
+.footer5{
+    margin-top: 6300px;
+    background-color: #777;
+    color: #fff;
+}
+
+
+.cosmetic_btn{
+    margin-top: 20px;
+    width: 100%;
+    background-color: #fff;
+    height: 40px;
+    border: #222 1px solid;
+    cursor: pointer;
+}
+
+
+.cosmetic_btn:hover{
+    margin-top: 20px;
+    width: 100%;
+    background-color: #222;
+    color: #fff;
+    height: 40px;
+    cursor: pointer;
+}
+
+
+.cosmetic_h1{
+    margin-top: 20px;
+    font-size: 16px;
+    max-width: 100%;
+}
